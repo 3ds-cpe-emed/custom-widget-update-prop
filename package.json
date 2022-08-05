@@ -1,0 +1,15 @@
+{
+    "name": "custom-widget-update-prop",
+    "description": "custom widget update title",
+    "version": "1.0.0",
+    "main": "server/server.js",
+    "scripts": {
+        "start": "node server/server.js"
+    },
+    "engines": {
+        "node": "12.18.0"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
